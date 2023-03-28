@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: todo
-        image: vikassarag/cicd-e2e:103
+        image: vikassarag/cicd-e2e:105
         ports:
         - containerPort: 8000
 
